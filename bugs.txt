@@ -1,0 +1,15 @@
+bugs:
+remove front doesnt update size
+remove front doesnt ever return true
+remove back doesnt update size
+remove back doesnt ever return true
+isEmpty always returns true
+addBack is addFront;
+remove front doesnt remove any
+remove back doenst remove any
+~LinkedListOfInts doesnt work.
+
+
+root bugs:
+is empty only returns true
+addBack is addfront
